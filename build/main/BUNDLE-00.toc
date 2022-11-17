@@ -1,0 +1,1 @@
+([('main', '/Users/jet/Documents/my_project/flet/dist/main', 'EXECUTABLE')],)
